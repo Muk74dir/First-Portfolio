@@ -82,3 +82,76 @@ a{
     width: 100%;
     background-position: right;
 }
+
+   
+
+.divider{
+    display: flex;
+    width: 100%;
+    background-image: url(image/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+    
+    
+
+   
+    
+}
+.sector{
+   
+    width: 100%;
+    box-shadow: 10px 10px 10px 10px teal;
+    margin: 50px;
+    padding: 30px;
+    background-image: url(image/exp-bg.png);
+    background-position:left;
+    background-repeat: no-repeat;
+    border:5px solid red;
+    
+   
+    
+    
+
+  
+}
+.python{
+
+    padding-left: 80px;
+    padding-right: 50px;
+  
+    
+
+}
+.univer{
+    font-size: 20px;
+    color:teal;
+}
+#slice_first{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+#slice_middle{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+    
+
+}
+#slice_last{
+
+    border-bottom: 7px solid;
+    border-image: linear-gradient(green,orangered);
+    border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+
+}
+footer span{
+    color: red;
+}
+    
