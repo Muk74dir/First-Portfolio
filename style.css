@@ -1,7 +1,7 @@
 body{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto Slab', serif;
-    padding-left: 50px;
+    padding-left: 80px;
 }
 .start{
     font-size: 50px;
@@ -9,13 +9,13 @@ body{
 .owner{
     color: red;
 }
-.intro{
-    font-size: 30px;
-}
-h3 u{
+
+   
+h3{
    color: green; 
+   font-size: 30px;
 }
-span{
+.uni{
     color: purple;
 }
 p b{
@@ -38,4 +38,18 @@ section{
 }
 .half-width img{
     width: 100%;
+}
+
+.half-width h1{
+    padding-top: 40px;
+}
+a{
+    color: white;
+}
+
+.button{
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
