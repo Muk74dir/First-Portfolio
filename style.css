@@ -2,12 +2,9 @@
 body{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto Slab', serif;
+    padding-left: 50px;
 }
 
-.letters{
-    padding-left: 40px;
-    width: 50%;
-}
 .start{
     font-size: 50px;
 }
@@ -24,8 +21,8 @@ body{
     width: 50%;
 }
 .haf-width img{
-    width:100%;
+    width: 1%;
 }
 section{
-    disply:flex;
+    disply: flex;
 }
