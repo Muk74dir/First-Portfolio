@@ -21,7 +21,7 @@ body{
     width: 50%;
 }
 .haf-width img{
-    width: 1%;
+    width: 100%;
 }
 section{
     disply: flex;
