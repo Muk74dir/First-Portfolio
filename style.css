@@ -1,10 +1,8 @@
-
 body{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto Slab', serif;
     padding-left: 50px;
 }
-
 .start{
     font-size: 50px;
 }
@@ -12,17 +10,32 @@ body{
     color: red;
 }
 .intro{
-    font-size: 20px;
+    font-size: 30px;
 }
-.underline{
-    color:green;
+h3 u{
+   color: green; 
+}
+span{
+    color: purple;
+}
+p b{
+    color: magenta;
+}
+.second{
+    color: maroon;
+}
+.third{
+    color: orangered;
+}
+.forth{
+    color: rgb(8, 130, 134);
 }
 .half-width{
     width: 50%;
 }
-.haf-width img{
-    width: 100%;
-}
 section{
-    disply: flex;
+    display: flex;
+}
+.half-width img{
+    width: 100%;
 }
